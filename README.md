@@ -1,6 +1,6 @@
 ## Working on python coding problems
 
-problems come from
--codewars.com
--hackerrank.com
--leetcode.com	
+Problems come from
+- codewars.com
+- hackerrank.com
+- leetcode.com	
