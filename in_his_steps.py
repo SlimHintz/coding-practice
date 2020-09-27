@@ -2,9 +2,9 @@ import math
 
 def in_his_footsteps(steps):
     """
-    A math function that approximates pie using hypothetical even steps aropund
-    a unit circle, similar to how Archimedes stumpled upon pi by walking around
-    a circle of known area in 250 bce
+    A math function that approximates pi using even steps around
+    a unit circle, similar to how Archimedes discovered pi by walking around
+    a circle of a known area in 250 bce
 
 
     """
