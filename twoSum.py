@@ -13,7 +13,7 @@ It returns the indices of the two numbers that add together to make the target
 """
 class Solution:
     def twoSum(self, nums, target):
-        h = {} # create an emoty list
+        h = {} # create an empty dictionary
         for i, num in enumerate(nums):
             # the complimentary number MUST be the target delta and itself
             n = target - num
